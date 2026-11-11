@@ -26,7 +26,7 @@ Graduate coursework at IIT Bombay.
 - **CS 736** Medical Image Computing · [Prof. Suyash P. Awate](https://www.cse.iitb.ac.in/~suyash/){:target="_blank" rel="noopener noreferrer"}
 - **GNR 650** Advanced Topics in Deep Learning for Image Analysis · [Prof. Biplab Banerjee](https://biplab-banerjee.github.io/){:target="_blank" rel="noopener noreferrer"}
 - **EE 603** DSP and Its Applications · [Prof. Vikram M. Gadre](https://www.ee.iitb.ac.in/people/faculty/vikram-m-gadre/){:target="_blank" rel="noopener noreferrer"}
-- Statistical Signal Analysis · [Prof. Sharayu Moharir](https://www.ee.iitb.ac.in/people/faculty/sharayu-moharir/){:target="_blank" rel="noopener noreferrer"}
+- **EE 601** Statistical Signal Analysis · [Prof. Sharayu Moharir](https://www.ee.iitb.ac.in/people/faculty/sharayu-moharir/){:target="_blank" rel="noopener noreferrer"}
 
 ### Mathematics, Optimization and Information Theory
 
