@@ -10,5 +10,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Blog"
+    url: https://medium.com/@dheerajpedia
+
   - title: "CV"
     url: /cv/
