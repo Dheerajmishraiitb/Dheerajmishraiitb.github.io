@@ -18,7 +18,7 @@ author_profile: true
 
 ### Before IIT Bombay
 
-- **Founder and Lead Educator, EECS Academy** (2013 – 2025)<br>
+- **Founder and Lead Educator, [EECS Academy](https://eecsacademy.in/){:target="_blank" rel="noopener noreferrer"}** (2013 – 2025)<br>
   Mentored GATE aspirants in computer science, data science and AI, electronics and mathematics through curated courses.
 
 - **Mentor, GeeksforGeeks** (Oct 2024 – Mar 2025)<br>
