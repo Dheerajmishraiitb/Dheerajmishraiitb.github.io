@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+> “The great joy of passing on to others what I believed I understood myself was the real backbone of my life.”<br>
+> — Ehrenfest
+
 ### Indian Institute of Technology Bombay
 
 - **Teaching Assistant, EE 603 Digital Signal Processing** (Autumn 2026)<br>
