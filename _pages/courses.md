@@ -31,6 +31,6 @@ Graduate coursework at IIT Bombay.
 ### Mathematics, Optimization and Information Theory
 
 - **EE 635** Applied Linear Algebra · [Prof. Debasattam Pal](https://www.ee.iitb.ac.in/~debasattam/){:target="_blank" rel="noopener noreferrer"}
-- Optimization in Machine Learning · [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/){:target="_blank" rel="noopener noreferrer"}
-- A First Course in Optimization · [Prof. Harish K. Pillai](https://www.ee.iitb.ac.in/people/faculty/harish-k-pillai/){:target="_blank" rel="noopener noreferrer"}
-- Information Theory and Coding · [Prof. Bikash Kumar Dey](https://www.ee.iitb.ac.in/people/faculty/bikash-kumar-dey/){:target="_blank" rel="noopener noreferrer"}
+- **CS 769** Optimization in Machine Learning · [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/){:target="_blank" rel="noopener noreferrer"}
+- **EE 659** A First Course in Optimization · [Prof. Harish K. Pillai](https://www.ee.iitb.ac.in/people/faculty/harish-k-pillai/){:target="_blank" rel="noopener noreferrer"}
+- **EE 708** Information Theory and Coding · [Prof. Bikash Kumar Dey](https://www.ee.iitb.ac.in/people/faculty/bikash-kumar-dey/){:target="_blank" rel="noopener noreferrer"}
