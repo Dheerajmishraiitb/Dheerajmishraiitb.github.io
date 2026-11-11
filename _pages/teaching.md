@@ -8,7 +8,7 @@ author_profile: true
 ### Indian Institute of Technology Bombay
 
 - **Teaching Assistant, EE 603 Digital Signal Processing** (Autumn 2026)<br>
-  Instructor: Prof. V.M. Gadre. Supported a class of 190+ students through tutorials, grading of problem sets and challenge problems, and evaluation of quizzes, exams and final projects.
+  Instructor: [Prof. V.M. Gadre](https://www.ee.iitb.ac.in/people/faculty/vikram-m-gadre/){:target="_blank" rel="noopener noreferrer"}. Supported a class of 190+ students through tutorials, grading of problem sets and challenge problems, and evaluation of quizzes, exams and final projects.
 
 - **Teaching Assistant, MS 101 Makers Space Lab** (Spring 2026)<br>
   Instructor: Prof. Joseph John. Guided first-year undergraduates through hands-on prototyping and programming, digital and analog projects.
