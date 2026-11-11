@@ -15,7 +15,7 @@ I work on making large language models more capable and more efficient after pre
 
 **Recursive Self-Improving Large Language Models via In-Context Learning (ICL) and Co-evolving U-OPSD**<br>
 *MTech Thesis, Stochastic Systems Lab, IIT Bombay (2026 – present)*<br>
-Advisor: [Prof. Nikhil Karamchandani](https://sites.google.com/site/nikhilkaram/){:target="_blank" rel="noopener noreferrer"} · Co-Advisor: [Prof. N. Hemachandra](https://iitb.irins.org/profile/158602){:target="_blank" rel="noopener noreferrer"}<br>
+Advisor: [Prof. Nikhil Karamchandani](https://sites.google.com/site/nikhilkaram/){:target="_blank" rel="noopener noreferrer"} · Co-Advisor: [Prof. N. Hemachandra](https://www.ieor.iitb.ac.in/~nh){:target="_blank" rel="noopener noreferrer"}<br>
 Computing facility: PARAM Rudra supercomputer, IIT Bombay (National Supercomputing Mission)<br>
 Investigating RL-based post-training methods to improve reasoning and alignment in LLMs, including PPO, GRPO and preference optimization, along with reward modeling and reasoning-oriented evaluation.
 

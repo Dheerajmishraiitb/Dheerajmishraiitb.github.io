@@ -8,7 +8,7 @@ author_profile: true
 ## Projects
 
 1. **Recursive Self-Improving Large Language Models via In-Context Learning (ICL) and Co-evolving U-OPSD**<br>
-   MTech Thesis Phase I (EE 797) · Advisor: [Prof. Nikhil Karamchandani](https://sites.google.com/site/nikhilkaram/){:target="_blank" rel="noopener noreferrer"} · Co-Advisor: [Prof. N. Hemachandra](https://iitb.irins.org/profile/158602){:target="_blank" rel="noopener noreferrer"}
+   MTech Thesis Phase I (EE 797) · Advisor: [Prof. Nikhil Karamchandani](https://sites.google.com/site/nikhilkaram/){:target="_blank" rel="noopener noreferrer"} · Co-Advisor: [Prof. N. Hemachandra](https://www.ieor.iitb.ac.in/~nh){:target="_blank" rel="noopener noreferrer"}
 
 2. **Does RL-Induced Reasoning Survive Merging?**<br>
    Research Project, BharatGen · Advisor: [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/){:target="_blank" rel="noopener noreferrer"}
