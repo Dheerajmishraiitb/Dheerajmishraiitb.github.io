@@ -16,3 +16,5 @@ My research interests lie in reinforcement learning, large language models, and 
 <!-- TODO: Add a "News" section with dated updates (papers, internships, talks) once you have them. -->
 
 Feel free to reach out at [dheerajpedia@gmail.com](mailto:dheerajpedia@gmail.com).
+
+Feel free to [setup a call](https://cal.com/dheeraj-mishra){:target="_blank" rel="noopener noreferrer"} if you want to discuss ideas around startups, AI (CV / ML / LLMs), or want to collaborate.
