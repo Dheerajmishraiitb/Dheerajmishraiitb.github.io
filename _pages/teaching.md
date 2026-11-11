@@ -11,10 +11,10 @@ author_profile: true
   Instructor: [Prof. V.M. Gadre](https://www.ee.iitb.ac.in/people/faculty/vikram-m-gadre/){:target="_blank" rel="noopener noreferrer"}. Supported a class of 190+ students through tutorials, grading of problem sets and challenge problems, and evaluation of quizzes, exams and final projects.
 
 - **Teaching Assistant, MS 101 Makers Space Lab** (Spring 2026)<br>
-  Instructor: Prof. Joseph John. Guided first-year undergraduates through hands-on prototyping and programming, digital and analog projects.
+  Instructor: [Prof. Joseph John](https://www.ee.iitb.ac.in/wiki/doku.php?id=faculty:jjohn){:target="_blank" rel="noopener noreferrer"}. Guided first-year undergraduates through hands-on prototyping and programming, digital and analog projects.
 
 - **Teaching Assistant, EE 340 Communication Lab** (Autumn 2025)<br>
-  Instructor: Prof. Rajbabu Velmurugan. Evaluated lab experiments, quizzes and exams on analog and digital communication systems for BTech EE students.
+  Instructor: [Prof. Rajbabu Velmurugan](https://www.ee.iitb.ac.in/people/faculty/rajbabu-velmurugan/){:target="_blank" rel="noopener noreferrer"}. Evaluated lab experiments, quizzes and exams on analog and digital communication systems for BTech EE students.
 
 ### Before IIT Bombay
 
